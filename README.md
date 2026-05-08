@@ -2,6 +2,9 @@
 
 GET sync.el: https://sync-el.web.app/
 
+<img width="860" height="693" alt="01" src="https://github.com/user-attachments/assets/b7a8f2e5-d1aa-4bca-a586-d1b711a59c77" />
+
+
 `sync.el` is a minimal, asynchronous, Git-native synchronization package for Org-mode.
 
 It aims to provide:
